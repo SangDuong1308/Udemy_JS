@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "limits": "cpp",
+        "stdbool.h": "c",
+        "vector": "cpp"
+    }
+}
